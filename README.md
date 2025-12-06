@@ -209,9 +209,17 @@ This project is open source and available under the [MIT License](LICENSE).
 - Cloudinary for image hosting
 - MongoDB Atlas for database hosting
 
-## 📞 Support
+<img width="1919" height="1014" alt="Screenshot 2025-12-06 120356" src="https://github.com/user-attachments/assets/4104f0ff-1854-4539-adf0-150d062a50d1" />
 
-For support, email your concerns or open an issue in the GitHub repository.
+<img width="1911" height="984" alt="Screenshot 2025-12-06 120431" src="https://github.com/user-attachments/assets/79b4e6db-a268-4b3e-877e-8ed5ebfd282b" />
+<img width="1906" height="1019" alt="Screenshot 2025-12-06 120449" src="https://github.com/user-attachments/assets/c93ccf7b-372c-4063-9ddb-bdbe49f3d32b" />
+
+<img width="1916" height="1001" alt="Screenshot 2025-12-06 120525" src="https://github.com/user-attachments/assets/51d5bc64-bb8c-4470-aa32-99e6f6af6de8" />
+
+<img width="1919" height="975" alt="Screenshot 2025-12-06 120534" src="https://github.com/user-attachments/assets/70d6cd2b-65e9-4e22-a430-94e4c68afae2" />
+
+
+
 
 ---
 
