@@ -1,9 +1,19 @@
 import { response } from "express";
 import User from "../models/user.model.js";
 import moment from "moment";
-
+import { v2 as cloudinary } from "cloudinary";
 import geminiResponse from "../utils/gemini.js";
-// update the path as per your project structure
+
+// Upload image to Cloudinary
+const uploadCloudnary = async (filePath) => {
+  try {
+    const result = await cloudinary.uploader.upload(filePath);
+    return result.secure_url;
+  } catch (error) {
+    console.error("Cloudinary upload error:", error);
+    throw error;
+  }
+};
 
 export const getCurrentUser = async (req, res) => {
   try {
